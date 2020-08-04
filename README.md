@@ -5,4 +5,7 @@ Running the script 'chicago_micromobility_gbfs.r' in R will leave you with an ob
 
 The last few lines have commands to make a map and save a time-stamped csv. 
 
-This is just snapshot of a moment in time. Run the script a few time or schedule it to build a time-series. 
+![Free Divvy E-bikes](/images/free-edivvy.png)
+
+This is just snapshot of a moment in time. Run the script a few times or schedule it to build a time-series. 
+
