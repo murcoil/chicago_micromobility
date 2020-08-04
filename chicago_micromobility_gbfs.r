@@ -54,6 +54,7 @@ div_plot <- div_full %>% filter(num_ebikes_available > 0) %>%
 
 # uncomment the next line to produce the plot
 # div_plot
+#
 
 # uncomment the next line to save a timestamped csv in the working directory
 # write.csv(div_full,paste0("divvystatus",format(feedtime, "_%Y%m%d_%H%M%S"),".csv"), row.names = FALSE)
